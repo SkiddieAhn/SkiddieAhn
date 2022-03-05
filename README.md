@@ -35,7 +35,7 @@
 <h4 align="center">(link to my Tech Blog)</h4>
 <p align="center">
 <a href="https://shacoding.com/category/cse/data-structure/" target="_blank">
-<img src="https://img.shields.io/badge/Data Structure-FF3621?style=flat-square&logo=Databricks&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Data Structure-FF3621?style=flat-square&logo=Databricks&logoColor=white&link=https://shacoding.com/category/cse/data-structure/" /></a>
 <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=flat-square&logo=The Algorithms&logoColor=white" />
 <img src="https://img.shields.io/badge/Architecture-4285F4?style=flat-square&logo=Jetpack Compose&logoColor=white" />
 <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square&logo=mysql&logoColor=white" />
