@@ -3,8 +3,9 @@
 <h3 align="center">I am interested in Computer Vision, Deep Learning and Web Server! 💻 </h3>
 
 ## 🏙 Experience
-### CVMI Lab
-> **Undergraduate Researcher** (2021.06 ~ 2022.02)
+### CVMI Lab 
+> **Undergraduate Researcher** (2021.06 ~ 2022.02)   
+> **Catholic Univ. Dept of Media Technology & Media Contents**
 - Computer Vision 
 - Image Processing
 
