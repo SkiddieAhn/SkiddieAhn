@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8CA6DB&height=300&section=header&text=SkiddieAhn&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=8CA6DB&height=300&section=header&text=SkiddieAhn&fontSize=70)
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+</p>
