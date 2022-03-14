@@ -13,8 +13,8 @@
 - **사이드 프로젝트 – 카트라이더 유틸리티, July 10-25, 2019.** [[View](https://shacoding.com/2019/07/25/python-selenium-tkinter-%ec%b9%b4%ed%8a%b8%eb%9d%bc%ec%9d%b4%eb%8d%94-%ec%9c%a0%ed%8b%b8%eb%a6%ac%ed%8b%b0/)]
 - **데이터마이닝 과제 – 마취중 저혈압 발생하는 환자를 사전에 찾아내기, Dec 1-7, 2019.** [[View](https://shacoding.com/2019/12/20/data-science-%ec%9d%98%eb%a3%8c-%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%b6%84%ec%84%9d/)]
 - **사이드 프로젝트 – 카트라이더 랜덤 트랙, Feb 1-7, 2020.** [[View](https://shacoding.com/2020/02/01/web-dev-%ec%b9%b4%ed%8a%b8%eb%9d%bc%ec%9d%b4%eb%8d%94-%eb%9e%9c%eb%8d%a4-%ed%8a%b8%eb%9e%99/)]
-- **개인 프로젝트 – 우리만의 비밀코드, Nov 1-31, 2021.** [[View](https://shacoding.com/2021/12/20/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%eb%b9%84%eb%b0%80%ec%bd%94%eb%93%9c-ubi-%ec%95%94%ed%98%b8%ed%99%94/)]
-- **연구 과제 – Duck-Farm-604 Project, Jan 1-31, 2022.** [[View](https://shacoding.com/2022/02/07/%ec%97%b0%ea%b5%ac-%ea%b3%bc%ec%a0%9c-duck-farm-604-project/)]
+- **사이드 프로젝트 – 우리만의 비밀코드, Nov 1-31, 2021.** [[View](https://shacoding.com/2021/12/20/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%eb%b9%84%eb%b0%80%ec%bd%94%eb%93%9c-ubi-%ec%95%94%ed%98%b8%ed%99%94/)]
+- **연구 과제 – 스마트 팜을 위한 오리 객체 검출 및 분석, Jan 1-31, 2022.** [[View](https://shacoding.com/2022/02/07/%ec%97%b0%ea%b5%ac-%ea%b3%bc%ec%a0%9c-duck-farm-604-project/)]
 <br/>
 
 
