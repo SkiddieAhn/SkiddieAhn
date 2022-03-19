@@ -3,6 +3,12 @@
 <h3 align="center">I am interested in Computer Vision, Deep Learning and Web Server! 💻 </h3>
 
 ## 🏙 Experience
+### Data Engineering Lab 
+> **Intern Researcher** (2022.03 ~ present)   
+> **Yonsei Univ. Dept of Computer Science**
+- Deep Learning
+- Computer Vision 
+
 ### CVMI Lab 
 > **Undergraduate Researcher** (2021.06 ~ 2022.02)   
 > **Catholic Univ. Dept of Media Technology & Media Contents**
