@@ -18,8 +18,8 @@
 ## 📜 Project
 - **사이드 프로젝트 – 우리만의 비밀코드 (UBI 암호화), Nov 1-31, 2021.** [[View](https://shacoding.com/2021/12/20/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%eb%b9%84%eb%b0%80%ec%bd%94%eb%93%9c-ubi-%ec%95%94%ed%98%b8%ed%99%94/)]
 - **LAB 프로젝트 – 스마트 팜을 위한 오리 객체 검출 및 분석, Jan 1-31, 2022.** [[View](https://shacoding.com/2022/02/07/%ec%97%b0%ea%b5%ac-%ea%b3%bc%ec%a0%9c-duck-farm-604-project/)]
-- **캡스톤 프로젝트 – AI 기반 냉장고 속 식품 유통기한 관리 챗봇 (프리지), Jan ~, 2022.** 
-- **OOP 프로젝트 – 가톨릭대 밥 약속 채팅 어플리케이션 (WE_EAT), Mar ~, 2022.** 
+- **캡스톤 프로젝트 – AI 기반 냉장고 속 식품 유통기한 관리 챗봇 (프리지), Feb ~ May, 2022.** 
+- **OOP 프로젝트 – 가톨릭대 밥 약속 채팅 어플리케이션 (WE_EAT), Mar ~ June, 2022.** 
 <br/>
 
 
