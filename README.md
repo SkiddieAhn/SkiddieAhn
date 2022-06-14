@@ -40,16 +40,16 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Detectron2-1877F2?style=flat-square&logo=facebook&logoColor=white" />
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-FF3621?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
 > **Framework & Others**
 <p>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-F7DF1E?style=flat-square&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-EF4223?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
-<img src="https://img.shields.io/badge/Swing-EF4223?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Tkinter-1B72BE?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
 </p>
 
@@ -91,6 +91,8 @@
 <img src="https://img.shields.io/badge/Android App-3DDC84?style=flat-square&logo=Android&logoColor=white" /></a>
 <a href="https://shacoding.com/category/android-app-web/node-js/" target="_blank">
 <img src="https://img.shields.io/badge/Web Server-339933?style=flat-square&logo=Node.js&logoColor=white" /></a>
+<a href="https://shacoding.com/category/android-app-web/design_analysis/" target="_blank">
+<img src="https://img.shields.io/badge/SW Engineering-00BCB4?style=flat-square&logo=Databricks&logoColor=white" /></a>
 </p>
 <br/>
 
