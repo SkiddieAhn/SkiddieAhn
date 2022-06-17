@@ -47,7 +47,7 @@
 <p>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-F7DF1E?style=flat-square&logo=Node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-EF4223?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-EF4223?style=flat-square&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
 <img src="https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
