@@ -20,7 +20,7 @@
 - **연구 과제 – 스마트 팜을 위한 오리 객체 검출 및 분석, Jan 1-31, 2022.** [[View](https://shacoding.com/2022/02/07/%ec%97%b0%ea%b5%ac-%ea%b3%bc%ec%a0%9c-duck-farm-604-project/)]
 - **캡스톤 디자인 – AI 기반 냉장고 속 식품 유통기한 관리 챗봇 (프리지), Feb ~ May, 2022.**  [[View](https://shacoding.com/2022/06/05/ai-%ea%b8%b0%eb%b0%98-%eb%83%89%ec%9e%a5%ea%b3%a0-%ec%9c%a0%ed%86%b5%ea%b8%b0%ed%95%9c-%ea%b4%80%eb%a6%ac-%ec%b1%97%eb%b4%87-%ec%ba%a1%ec%8a%a4%ed%86%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/)]
 - **객체지향 프로젝트 – 가톨릭대 밥 약속 채팅 어플리케이션 (WE_EAT), Mar ~ June, 2022.** [[View](https://shacoding.com/2022/06/14/%ea%b0%80%ed%86%a8%eb%a6%ad%eb%8c%80-%eb%b0%a5-%ec%95%bd%ec%86%8d-%ec%b1%84%ed%8c%85-%ec%95%b1-%ea%b0%9d%ec%b2%b4%ec%a7%80%ed%96%a5-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/)]
-- **연구 논문 - < KSC 2022 준비중, June ~ Oct June, 2022. >**
+- **연구 논문 - < KSC 2022 준비중, June ~ Oct, 2022. >**
 <br/>
 
 
