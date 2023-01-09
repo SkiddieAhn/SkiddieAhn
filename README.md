@@ -4,7 +4,7 @@
 
 ## 🏙 Experience
 ### Data Engineering Lab (DVAWG)
-> **Researcher** (2023.03 ~ Present)   
+> **Researcher** (2023.03 ~ present)   
 > **Yonsei Univ. Dept of Computer Science**
 - Video & Medical Segmentation
 - Database Automatic Tuning
