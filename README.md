@@ -3,7 +3,7 @@
 <h3 align="center">I am interested in Computer Vision, Deep Learning and Web Server! 💻 </h3>
 
 ## 🏙 Experience
-### Data Engineering Lab (DVAWG)
+### Data Engineering Lab (DVAA)
 > **Researcher** (2023.03 ~ present)   
 > **Yonsei Univ. Dept of Computer Science**
 - Video & Medical Segmentation
