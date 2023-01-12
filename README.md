@@ -7,7 +7,7 @@
 > **Researcher** (2023.03 ~ present)   
 > **Yonsei Univ. Dept of Computer Science**
 - Video & Medical Segmentation
-- Autonomous Database Tuning
+- Automatic Database Tuning
 
 ### Data Engineering Lab (ADWG)
 > **Intern Researcher** (2022.03 ~ 2023.02)   
