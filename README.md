@@ -6,8 +6,8 @@
 ### Data Engineering Lab (DVAA)
 > **Researcher** (2023.03 ~ present)   
 > **Yonsei Univ. Dept of Computer Science**
-- Video & Medical Segmentation
-- Automatic Database Tuning
+- Video Understanding 
+- Medical Image Segmentation
 
 ### Data Engineering Lab (ADWG)
 > **Intern Researcher** (2022.03 ~ 2023.02)   
