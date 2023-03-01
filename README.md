@@ -35,7 +35,7 @@
 - **대학생 금융보안캠프 아이디어 경연대회 <i>TOP 9</i>**
 
 ## ☎ Contact
-**E-mail:** skd@catholic.ac.kr / hellobixby@kakao.com
+**E-mail:** skd@yonsei.ac.kr / hellobixby@kakao.com
 </p>
 <p>
 <a href="https://shacoding.com/" target="_blank">
