@@ -6,7 +6,7 @@
 ### Data Engineering Lab (DVAA)
 > **Researcher** (2023.03 ~ present)   
 > **Yonsei Univ. Dept of Computer Science**
-- Video Understanding 
+- Video Anomaly Detection
 - Medical Image Segmentation
 
 ### Data Engineering Lab (ADWG)
