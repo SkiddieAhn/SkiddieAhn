@@ -12,13 +12,13 @@
 ### Data Engineering Lab (ADWG)
 > **Intern Researcher** (2022.03 ~ 2023.02)   
 > **Yonsei Univ. Dept of Computer Science**
-- Deep Learning
-- Computer Vision 
+- Anomaly Detection
+- Visual Tracking
 
 ### CVMI Lab 
 > **Undergraduate Researcher** (2021.06 ~ 2022.02)   
 > **Catholic Univ. Dept of Media Technology & Media Contents**
-- Computer Vision 
+- Object Detection 
 - Image Processing
 
 ## 📜 Project
