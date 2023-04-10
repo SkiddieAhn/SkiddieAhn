@@ -1,4 +1,4 @@
-## 👋 Welcome SkiddieAhn's Github 
+## 👋 Welcome SKD's Github 
 
 - I am Ahn Sung Hyun who have dreamed being a Software Engineer. 👨‍💻
 - My current interests lie in the field of Computer Vision, Deep Learning and Web Server! 💻
