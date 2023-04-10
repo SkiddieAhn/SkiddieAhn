@@ -3,7 +3,7 @@
 - I am Ahn Sung Hyun who have dreamed being a Software Engineer. 👨‍💻
 - My areas of interest are Computer Vision, Deep Learning, and Web Server. 💻
 
-[![Git Status](https://github-readme-stats.vercel.app/api?username=skiddieahn&hide_border=true&bg_color=00000000)](https://github.com/Ign0reLee)
+[![Git Status](https://github-readme-stats.vercel.app/api?username=skiddieahn)](https://github.com/Ign0reLee)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skiddieahn&layout=compact) -->
 
