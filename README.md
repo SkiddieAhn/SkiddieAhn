@@ -1,6 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8CA6DB&height=300&section=header&text=SkiddieAhn&fontSize=70)
-<h3 align="center">Welcome to My GitHub. I am Ahn Sung Hyun  who have dreamed being a Software Engineer. 👨‍💻</h3>
-<h3 align="center">I am interested in Computer Vision, Deep Learning and Web Server! 💻 </h3>
+## 👋 Welcome SkiddieAhn's Github 
+
+- I am Ahn Sung Hyun who have dreamed being a Software Engineer. 👨‍💻
+- My current interests lie in the field of Computer Vision, Deep Learning and Web Server! 💻
+
+[![Git Status](https://github-readme-stats.vercel.app/api?username=skiddieahn&hide_border=true&bg_color=00000000)](https://github.com/Ign0reLee)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skiddieahn&layout=compact) -->
 
 ## 🏙 Experience
 ### Data Engineering Lab (DVAA)
