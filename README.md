@@ -34,7 +34,7 @@
 - **사이드 프로젝트 – 우리만의 비밀코드 (UBI 암호화), Aug 1-31, 2021.** [[View](https://shacoding.com/2021/12/20/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%eb%b9%84%eb%b0%80%ec%bd%94%eb%93%9c-ubi-%ec%95%94%ed%98%b8%ed%99%94/)][[Code](https://github.com/SkiddieAhn/Project-ChatBot-UBI)]
 
 ## 📜 Publications
-- **학회 논문 – 다중 객체 비디오에서의 어텐션 기반 단일 객체 추적 모델 연구, Oct ~ Dec, 2022.** [[View](https://shacoding.com/2022/12/24/%eb%8b%a8%ec%9d%bc-%ea%b0%9d%ec%b2%b4-%ec%b6%94%ec%a0%81-%eb%aa%a8%eb%8d%b8-%ec%97%b0%ea%b5%ac-%ed%95%99%ed%9a%8c-%ea%b2%8c%ec%9e%ac-%eb%85%bc%eb%ac%b8/)][[DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224192)]
+- **학회 논문(KIISE) – 다중 객체 비디오에서의 어텐션 기반 단일 객체 추적 모델 연구, Oct ~ Dec, 2022.** [[View](https://shacoding.com/2022/12/24/%eb%8b%a8%ec%9d%bc-%ea%b0%9d%ec%b2%b4-%ec%b6%94%ec%a0%81-%eb%aa%a8%eb%8d%b8-%ec%97%b0%ea%b5%ac-%ed%95%99%ed%9a%8c-%ea%b2%8c%ec%9e%ac-%eb%85%bc%eb%ac%b8/)][[DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224192)]
 
 ## 🏅 Awards
 - **가톨릭대학교 캡스톤디자인 경진대회 <i>[자연/공학/융합 부문]</i> 대상**
