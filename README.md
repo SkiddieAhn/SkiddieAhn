@@ -8,17 +8,12 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skiddieahn&layout=compact) -->
 
 ## 🏙 Experience
-### Data Engineering Lab (DVAA)
-> **Researcher** (2023.03 ~ present)   
+### Data Engineering Lab 
+> **Intern Researcher** (2022.03 ~ 2023.02) <br/>**Researcher** (2023.03 ~ present)   
 > **Yonsei Univ. Dept of Computer Science**
+- Visual Tracking
 - Video Anomaly Detection
 - Medical Image Segmentation
-
-### Data Engineering Lab (ADWG)
-> **Intern Researcher** (2022.03 ~ 2023.02)   
-> **Yonsei Univ. Dept of Computer Science**
-- Anomaly Detection
-- Visual Tracking
 
 ### CVMI Lab 
 > **Undergraduate Researcher** (2021.06 ~ 2022.02)   
