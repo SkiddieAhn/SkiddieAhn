@@ -9,7 +9,7 @@
 
 ## 🏙 Experience
 ### Data Engineering Lab 
-> **Intern** (2022.03 ~ 2023.02) <br/>**Researcher** (2023.03 ~ present)   
+> **Researcher** (2023.03 ~ present) <br/>**Intern Researcher** (2022.03 ~ 2023.02)   
 > **Yonsei Univ. Dept of Computer Science**
 - Visual Tracking
 - Video Anomaly Detection
