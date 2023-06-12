@@ -2,10 +2,8 @@
 
 - I am Sunghyun Ahn who have dreamed being a Software Engineer. 👨‍💻
 - My areas of interest are Computer Vision, Deep Learning, and Web Server. 💻
+- I am currently in the first semester of master's degree in computer science at Yonsei University!
 
-[![Git Status](https://github-readme-stats.vercel.app/api?username=skiddieahn&hide_border=true)](https://github.com/skiddieahn)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skiddieahn&layout=compact) -->
 
 ## 🏙 Experience
 ### Data Engineering Lab 
