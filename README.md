@@ -1,8 +1,8 @@
 ## 👋 Welcome to SKD's Github [![Today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskiddieahn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- I am Sunghyun Ahn who have dreamed being a Software Engineer. 👨‍💻
-- My areas of interest are Computer Vision, Deep Learning, and Web Server. 💻
-- I am currently in the first semester of master's degree in computer science at Yonsei University!
+- I am a M.S. student in Data Engineering Lab at Yonsei University advised by Prof. Sanghyun Park.
+- My current research interests lie in deep learning for video anomaly detection and medical image segmentation.
+- I obtained my Bachelor's degree in Computer Science at Catholic Univerity of Korea with Magna Cum Laude.
 
 
 ## 🏙 Experience
