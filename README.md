@@ -2,7 +2,7 @@
 
 - I am a M.S. student in Data Engineering Lab at [Yonsei University](https://www.yonsei.ac.kr/sc/) advised by [Prof. Sanghyun Park](http://delab.yonsei.ac.kr/sanghyun/).
 - My current research interests lie in deep learning for Video Anomaly Detection and Medical Image Segmentation.
-- I obtained my Bachelor's degree in Computer Science at [The Catholic Univerity of Korea](https://www.catholic.ac.kr/index.do) with Magna Cum Laude.
+- I obtained my Bachelor's degree in Computer Science at [The Catholic Univerity of Korea](https://www.catholic.ac.kr/english/main.do) with Magna Cum Laude.
 
 
 ## 🏙 Experience
