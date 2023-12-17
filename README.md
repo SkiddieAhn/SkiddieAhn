@@ -58,7 +58,7 @@
 <details>
 <summary><b>Side Project</b></summary>
 
-1. 이산수학. <b>"우리만의 비밀코드: UBI 암호화." (2021) [[View](https://shacoding.com/2021/12/20/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%eb%b9%84%eb%b0%80%ec%bd%94%eb%93%9c-ubi-%ec%95%94%ed%98%b8%ed%99%94/)][[Code](https://github.com/SkiddieAhn/Project-ChatBot-UBI)]
+1. 이산수학. <b>"우리만의 비밀코드: UBI 암호화."</b> (2021) [[View](https://shacoding.com/2021/12/20/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%eb%b9%84%eb%b0%80%ec%bd%94%eb%93%9c-ubi-%ec%95%94%ed%98%b8%ed%99%94/)][[Code](https://github.com/SkiddieAhn/Project-ChatBot-UBI)]
   
 </details>
 
