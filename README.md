@@ -19,7 +19,7 @@
 - Object Detection 
 - Image Processing
   
-## 📜 Research Findings
+## 📜 Publications
 <details>
 <summary><b>International Conference</b></summary>
 
