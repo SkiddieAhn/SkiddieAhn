@@ -20,9 +20,28 @@
 - Image Processing
   
 ## 📜 Research Findings
-- **특허 출원 – 이중 어텐션을 이용한 이미지 세그멘테이션 방법 및 이를 활용한 장치, Sep, 2023.** [[View](http://delab.yonsei.ac.kr/publications/domestic/patent/2023-09-19-%EC%9D%B4%EC%A4%91%20%EC%96%B4%ED%85%90%EC%85%98%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98%20%EB%B0%A9%EB%B2%95%20%EB%B0%8F%20%EC%9D%B4%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9E%A5%EC%B9%98/)]
-- **학회 논문 <i> [KCC 2023]</i> – 3D 의료 영상 분할을 위한 채널 어텐션이 적용된 Swin Transformer, Jun, 2023.** [[View](https://shacoding.com/2023/06/16/%ec%9d%98%eb%a3%8c-%ec%98%81%ec%83%81-%eb%b6%84%ed%95%a0-%eb%aa%a8%eb%8d%b8-%ec%97%b0%ea%b5%ac-%ed%95%99%ed%9a%8c-%ea%b2%8c%ec%9e%ac-%eb%85%bc%eb%ac%b8/)]
-- **학회 논문 <i> [KSC 2022]</i> – 다중 객체 비디오에서의 어텐션 기반 단일 객체 추적 모델 연구, Dec, 2022.** [[View](https://shacoding.com/2022/12/24/%eb%8b%a8%ec%9d%bc-%ea%b0%9d%ec%b2%b4-%ec%b6%94%ec%a0%81-%eb%aa%a8%eb%8d%b8-%ec%97%b0%ea%b5%ac-%ed%95%99%ed%9a%8c-%ea%b2%8c%ec%9e%ac-%eb%85%bc%eb%ac%b8/)]
+<details>
+<summary><b>International Conference</b></summary>
+
+1. Seungkyun Hong, <ins>Sunghyun Ahn</ins>, Youngwan Jo, and Sanghyun Park. "Dual Stream Fusion U-Net Transformers for
+3D Medical Image Segmentation" IEEE International Conference on Big Data and Smart Computing (BigComp) 2024, Feb 2024. <b><i>[co-first]</i></b>
+  
+</details>
+
+<details>
+<summary><b>Domestic Conference</b></summary>
+
+1. <ins>안성현</ins>, et al. "C-Swin UNETR: 3D 의료 영상 분할을 위한 채널 어텐션이 적용된 Swin Transformer." 한국정보과학회 학술발표논문집 (2023): 787-789. [[View](https://shacoding.com/2023/06/16/%ec%9d%98%eb%a3%8c-%ec%98%81%ec%83%81-%eb%b6%84%ed%95%a0-%eb%aa%a8%eb%8d%b8-%ec%97%b0%ea%b5%ac-%ed%95%99%ed%9a%8c-%ea%b2%8c%ec%9e%ac-%eb%85%bc%eb%ac%b8/)]
+2. <ins>안성현</ins>, 조영완, and 박상현. "다중 객체 비디오에서의 어텐션 기반 단일 객체 추적 모델 연구." 한국정보과학회 학술발표논문집 (2022): 628-630. [[View](https://shacoding.com/2022/12/24/%eb%8b%a8%ec%9d%bc-%ea%b0%9d%ec%b2%b4-%ec%b6%94%ec%a0%81-%eb%aa%a8%eb%8d%b8-%ec%97%b0%ea%b5%ac-%ed%95%99%ed%9a%8c-%ea%b2%8c%ec%9e%ac-%eb%85%bc%eb%ac%b8/)]
+   
+</details>
+
+<details>
+<summary><b>Patent</b></summary>
+  
+1. 홍승균, <ins>안성현</ins>, 조영완, 박상현. "이중 어텐션을 이용한 이미지 세그멘테이션 방법 및 이를 활용한 장치." ID: 10-2023-0124697 (2023). [[View](http://delab.yonsei.ac.kr/publications/domestic/patent/2023-09-19-%EC%9D%B4%EC%A4%91%20%EC%96%B4%ED%85%90%EC%85%98%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98%20%EB%B0%A9%EB%B2%95%20%EB%B0%8F%20%EC%9D%B4%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9E%A5%EC%B9%98/)]
+   
+</details>
 
 
 ## ⚙️ Projects
