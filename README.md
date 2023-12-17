@@ -46,7 +46,7 @@
 
 ## ⚙️ Projects
 <details>
-<summary><b>Main Project</b></summary>
+<summary><b>Main Projects</b></summary>
 
 1. 금융보안캠프. <b>"금융 메타버스 플랫폼 내 GAN을 활용한 손금 인증 서비스."</b> (2022) [[View](https://shacoding.com/2022/08/14/gan%ec%9d%84-%ed%99%9c%ec%9a%a9%ed%95%9c-%ec%86%90%ea%b8%88-%ec%9d%b8%ec%a6%9d-%ec%84%9c%eb%b9%84%ec%8a%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%95%84%ec%9d%b4%eb%94%94%ec%96%b4/)]
 2. 객체지향 패러다임. <b>"가톨릭대 밥 약속 채팅 어플리케이션: WE_EAT."</b> (2022) [[View](https://shacoding.com/2022/06/14/%ea%b0%80%ed%86%a8%eb%a6%ad%eb%8c%80-%eb%b0%a5-%ec%95%bd%ec%86%8d-%ec%b1%84%ed%8c%85-%ec%95%b1-%ea%b0%9d%ec%b2%b4%ec%a7%80%ed%96%a5-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/)][[Code](https://github.com/SkiddieAhn/Project-App-WE_EAT)]
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary><b>Side Project</b></summary>
+<summary><b>Side Projects</b></summary>
 
 1. 이산수학. <b>"우리만의 비밀코드: UBI 암호화."</b> (2021) [[View](https://shacoding.com/2021/12/20/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%eb%b9%84%eb%b0%80%ec%bd%94%eb%93%9c-ubi-%ec%95%94%ed%98%b8%ed%99%94/)][[Code](https://github.com/SkiddieAhn/Project-ChatBot-UBI)]
   
