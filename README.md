@@ -21,7 +21,7 @@
   
 ## 📜 Publications
 <details>
-<summary><b>International Conference</b></summary>
+<summary><b>International Papers</b></summary>
 
 1. Seungkyun Hong, <ins>Sunghyun Ahn</ins>, Youngwan Jo, and Sanghyun Park. <b>"Dual Stream Fusion U-Net Transformers for
 3D Medical Image Segmentation"</b> IEEE International Conference on Big Data and Smart Computing (BigComp) 2024, regular paper, Feb 2024. <b><i>[co-first]</i></b>
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-<summary><b>Domestic Conference</b></summary>
+<summary><b>Domestic Papers</b></summary>
 
 1. <ins>안성현</ins>, 김환희, 권세인 and 박상현. <b>"C-Swin UNETR: 3D 의료 영상 분할을 위한 채널 어텐션이 적용된 Swin Transformer."</b> 한국정보과학회 학술발표논문집 (2023): 787-789. [[View](https://shacoding.com/2023/06/16/%ec%9d%98%eb%a3%8c-%ec%98%81%ec%83%81-%eb%b6%84%ed%95%a0-%eb%aa%a8%eb%8d%b8-%ec%97%b0%ea%b5%ac-%ed%95%99%ed%9a%8c-%ea%b2%8c%ec%9e%ac-%eb%85%bc%eb%ac%b8/)]
 2. <ins>안성현</ins>, 조영완, and 박상현. <b>"다중 객체 비디오에서의 어텐션 기반 단일 객체 추적 모델 연구."</b> 한국정보과학회 학술발표논문집 (2022): 628-630. [[View](https://shacoding.com/2022/12/24/%eb%8b%a8%ec%9d%bc-%ea%b0%9d%ec%b2%b4-%ec%b6%94%ec%a0%81-%eb%aa%a8%eb%8d%b8-%ec%97%b0%ea%b5%ac-%ed%95%99%ed%9a%8c-%ea%b2%8c%ec%9e%ac-%eb%85%bc%eb%ac%b8/)]
