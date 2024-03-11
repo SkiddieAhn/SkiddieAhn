@@ -1,7 +1,7 @@
 ## 👋 Welcome to SKD's Github [![Today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskiddieahn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - I am a M.S. student in Data Engineering Lab at [Yonsei University](https://www.yonsei.ac.kr/sc/) advised by [Prof. Sanghyun Park](http://delab.yonsei.ac.kr/sanghyun/).
-- My current research interests lie in deep learning for Video Anomaly Detection and Medical Image Segmentation.
+- My current research interest is deep learning for Video Anomaly Detection or Medical Image Segmentation.
 - I obtained my Bachelor's degree in Computer Science at [The Catholic Univerity of Korea](https://www.catholic.ac.kr/english/main.do) with Magna Cum Laude.
 
 
@@ -75,8 +75,10 @@
 **E-mail:** skd@yonsei.ac.kr
 </p>
 <p>
+<a href="https://scholar.google.com/citations?user=mKchEwoAAAAJ&hl=ko" target="_blank">
+<img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=Google Scholar&logoColor=white" /></a>
+<a href="https://kr.linkedin.com/in/sunghyun-ann-7ba3892a5?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 <a href="https://shacoding.com/" target="_blank">
 <img src="https://img.shields.io/badge/Tech Blog-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
-<a href="https://blog.naver.com/godsome_28" target="_blank">
-<img src="https://img.shields.io/badge/Daily Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" /></a>
 </p>
