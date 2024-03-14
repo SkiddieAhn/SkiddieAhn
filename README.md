@@ -1,7 +1,7 @@
 ## 👋 Welcome to SKD's Github [![Today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskiddieahn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - I am a M.S. student in the Data Engineering Lab at [Yonsei University](https://www.yonsei.ac.kr/sc/), advised by [Prof. Sanghyun Park](http://delab.yonsei.ac.kr/sanghyun/).
-- My current research interests include video anomaly detection, medical image segmentation.
+- My current research interests include video anomaly detection and medical image segmentation.
 - I obtained my Bachelor's degree in Computer Science at [The Catholic Univerity of Korea](https://www.catholic.ac.kr/english/main.do) with Magna Cum Laude.
 
 
