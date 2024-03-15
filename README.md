@@ -23,8 +23,8 @@
 <details>
 <summary><b>International Papers</b></summary>
 
-1. **[SCIE]** Seungkyun Hong*, <ins>Sunghyun Ahn*</ins>, Youngwan Jo, and Sanghyun Park. <b>"Making Anomalies More Anomalous: Video Anomaly Detection Using a Novel Generator and Destroyer"</b> IEEE Access (2024): TBD. (IF: 3.9, JCR: Q2) <b><i>[co-first]</i></b> [[View](https://ieeexplore.ieee.org/document/10462109/)]
-2. Seungkyun Hong*, <ins>Sunghyun Ahn*</ins>, Youngwan Jo, and Sanghyun Park. <b>"Dual Stream Fusion U-Net Transformers for
+1. **[SCIE]** Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo, and Sanghyun Park. <b>"Making Anomalies More Anomalous: Video Anomaly Detection Using a Novel Generator and Destroyer"</b> IEEE Access (2024): TBD. (IF: 3.9, JCR: Q2) <b><i>[co-first]</i></b> [[View](https://ieeexplore.ieee.org/document/10462109/)]
+2. Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo, and Sanghyun Park. <b>"Dual Stream Fusion U-Net Transformers for
 3D Medical Image Segmentation"</b> IEEE International Conference on Big Data and Smart Computing (BigComp) 2024, regular paper, Feb 2024. <b><i>[co-first]</i></b>
 
   
@@ -33,9 +33,9 @@
 <details>
 <summary><b>Domestic Papers</b></summary>
 
-1. 이기정, <ins>안성현</ins>, 김현진 and 박상현. <b>"FFAE: 비디오 이상 탐지를 위한 비디오 프레임 전처리 및 특징 융합 방법"</b> 한국정보과학회 학술발표논문집 (2023): 526-528. [[View](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705154)]
-2. <ins>안성현</ins>, 김환희, 권세인 and 박상현. <b>"C-Swin UNETR: 3D 의료 영상 분할을 위한 채널 어텐션이 적용된 Swin Transformer."</b> 한국정보과학회 학술발표논문집 (2023): 787-789. [[View](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488179)]
-3. <ins>안성현</ins>, 조영완, and 박상현. <b>"다중 객체 비디오에서의 어텐션 기반 단일 객체 추적 모델 연구."</b> 한국정보과학회 학술발표논문집 (2022): 628-630. [[View](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224192)]
+1. 이기정, 안성현, 김현진 and 박상현. <b>"FFAE: 비디오 이상 탐지를 위한 비디오 프레임 전처리 및 특징 융합 방법"</b> 한국정보과학회 학술발표논문집 (2023): 526-528. [[View](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705154)]
+2. 안성현, 김환희, 권세인 and 박상현. <b>"C-Swin UNETR: 3D 의료 영상 분할을 위한 채널 어텐션이 적용된 Swin Transformer."</b> 한국정보과학회 학술발표논문집 (2023): 787-789. [[View](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488179)]
+3. 안성현, 조영완, and 박상현. <b>"다중 객체 비디오에서의 어텐션 기반 단일 객체 추적 모델 연구."</b> 한국정보과학회 학술발표논문집 (2022): 628-630. [[View](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224192)]
    
 </details>
 
