@@ -42,7 +42,7 @@
 <details>
 <summary><b>Patent</b></summary>
   
-1. 홍승균, 안성현, 조영완, 박상현. <b>"이중 어텐션을 이용한 이미지 세그멘테이션 방법 및 이를 활용한 장치."</b> ID: 10-2023-0124697 (2023). [[View](http://delab.yonsei.ac.kr/publications/domestic/patent/2023-09-19-%EC%9D%B4%EC%A4%91%20%EC%96%B4%ED%85%90%EC%85%98%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98%20%EB%B0%A9%EB%B2%95%20%EB%B0%8F%20%EC%9D%B4%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9E%A5%EC%B9%98/)]
+1. 홍승균, 안성현, 조영완, and 박상현. <b>"이중 어텐션을 이용한 이미지 세그멘테이션 방법 및 이를 활용한 장치."</b> ID: 10-2023-0124697 (2023). [[View](http://delab.yonsei.ac.kr/publications/domestic/patent/2023-09-19-%EC%9D%B4%EC%A4%91%20%EC%96%B4%ED%85%90%EC%85%98%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98%20%EB%B0%A9%EB%B2%95%20%EB%B0%8F%20%EC%9D%B4%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9E%A5%EC%B9%98/)]
    
 </details>
 
