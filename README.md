@@ -25,7 +25,7 @@
 
 1. **[SCIE]** Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo, and Sanghyun Park. <b>"Making Anomalies More Anomalous: Video Anomaly Detection Using a Novel Generator and Destroyer"</b> IEEE Access (2024): 36712-36726. (IF: 3.9, JCR: Q2) <b><i>[co-first]</i></b> [[View](https://ieeexplore.ieee.org/document/10462109/)]
 2. Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo, and Sanghyun Park. <b>"Dual Stream Fusion U-Net Transformers for
-3D Medical Image Segmentation"</b> IEEE International Conference on Big Data and Smart Computing (BigComp) 2024, regular paper, Feb 2024. <b><i>[co-first]</i></b>
+3D Medical Image Segmentation"</b> IEEE International Conference on Big Data and Smart Computing (BigComp) 2024, regular paper, Feb 2024. <b><i>[co-first]</i></b> [[View](https://ieeexplore.ieee.org/abstract/document/10488278)]
 
   
 </details>
