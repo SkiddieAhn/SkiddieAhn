@@ -42,7 +42,7 @@
 <details>
 <summary><b>International Patent</b></summary>
 
-1. Seungkyun Hong, Sunghyun Ahn, Youngwan Jo, and Sanghyun Park. <b>"Image segmentation method using dual attention and the device utilizing it."</b> ID: PCT/KR2023/020370 (2024). [[View](http://delab.yonsei.ac.kr/publications/international/patent/2023-12-12-Image%20segmentation%20method%20using%20dual%20attention%20and%20the%20device%20utilizing%20it/)]
+1. Seungkyun Hong, Sunghyun Ahn, Youngwan Jo, and Sanghyun Park. <b>"Image segmentation method using dual attention and the device utilizing it."</b> ID: PCT/KR2023/020370 (2023). [[View](http://delab.yonsei.ac.kr/publications/international/patent/2023-12-12-Image%20segmentation%20method%20using%20dual%20attention%20and%20the%20device%20utilizing%20it/)]
    
 </details>
 
