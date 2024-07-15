@@ -99,7 +99,7 @@
 - **대학생 금융보안캠프 아이디어 경연대회 <i>TOP 9</i>**
 
 ## ☎ Contact
-**E-mail:** skd@yonsei.ac.kr, **CV:** [view](https://shacoding.com/wp-content/uploads/2019/07/SHA_CV_0714.pdf)
+**E-mail:** skd@yonsei.ac.kr, **CV:** [view](https://shacoding.com/wp-content/uploads/2024/07/SHA_CV_0715.pdf)
 </p>
 <p>
 <a href="https://scholar.google.com/citations?user=mKchEwoAAAAJ&hl=ko" target="_blank">
