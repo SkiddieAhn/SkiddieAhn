@@ -4,7 +4,7 @@
 - My current research interests include deep learning, video anomaly detection and medical image segmentation.
 - I obtained my Bachelor's degree in Computer Science at [The Catholic Univerity of Korea](https://www.catholic.ac.kr/english/main.do) with Magna Cum Laude.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=skiddieahn&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=skiddieahn&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/SkiddieAhn)
 
 ## 🏙 Experience
 ### Data Engineering Lab
