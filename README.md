@@ -75,16 +75,6 @@
   
 </details>
 
-
-## 👨‍🏫 Teaching
-<details>
-<summary><b>Yonsei University College of Computing</b></summary>
-
-1. 단기 강의. <b>"데이터베이스시스템응용 (CSI8782.01-01)"</b> (2024) [[View](https://shacoding.com/2024/04/25/%eb%85%bc%eb%ac%b8-%eb%a6%ac%eb%b7%b0-video-anomaly-detection/)]
-2. 수업 조교. <b>"컴퓨터과학입문 (CSI2106.01-00)"</b> (2023~2024)
-   
-</details>
-
 <details>
 <summary><b>Yonsei Graduate School of Engineering</b></summary>
 
