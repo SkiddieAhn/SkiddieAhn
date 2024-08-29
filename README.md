@@ -75,13 +75,6 @@
   
 </details>
 
-<details>
-<summary><b>Yonsei Graduate School of Engineering</b></summary>
-
-1. 수업 조교. <b>"딥러닝기반이상탐지모델링 (GEK6207.01-00)"</b> (2023) [[View](https://github.com/SkiddieAhn/TA-Deep-Learning)]
-   
-</details>
-
 
 ## 🏅 Awards
 - **가톨릭대학교 캡스톤디자인 경진대회 <i>[자연/공학/융합 부문]</i> 대상**
