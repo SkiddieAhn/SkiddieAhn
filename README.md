@@ -2,7 +2,7 @@
 
 - I am a M.S. student in the Data Engineering Lab at [Yonsei University](https://www.yonsei.ac.kr/sc/), advised by [Prof. Sanghyun Park](http://delab.yonsei.ac.kr/sanghyun/).
 - My current research interests include deep learning, video anomaly detection and medical image segmentation.
-- I obtained my Bachelor's degree in Computer Science at [The Catholic Univerity of Korea](https://www.catholic.ac.kr/english/main.do) with Magna Cum Laude.
+- I obtained my Bachelor's degree in Computer Science at [The Catholic Univerity of Korea](https://www.catholic.ac.kr/ko/index.do) with Magna Cum Laude.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=skiddieahn&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.com/SkiddieAhn)
 
