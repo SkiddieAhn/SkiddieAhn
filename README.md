@@ -13,12 +13,6 @@
 - Visual Tracking
 - Video Anomaly Detection
 - Medical Image Segmentation
-
-### CVMI Lab
-> **Undergraduate Researcher** (2021.06 ~ 2022.02)   
-> **Catholic Univ. Dept of Media Technology & Media Contents**
-- Object Detection 
-- Image Processing
   
 ## 📜 Publications
 <details>
