@@ -78,23 +78,6 @@
   
 </details>
 
-
-## 🏅 Awards
-<details>
-<summary><b>Internal Awards</b></summary>
-  
-1. 가톨릭대학교 캡스톤디자인 경진대회 <i>[자연/공학/융합 부문]</i> 대상 <b><i>[Grand Award]</i></b>
-2. 가톨릭대학교 우등상 <b><i>[Magna Cum Laude]</i></b>
-
-</details>
-
-<details>
-<summary><b>External Awards</b></summary>
-  
-1. 대학생 금융보안캠프 아이디어 경연대회 <b><i>TOP 9</i></b>
-
-</details>
-
 ## ☎ Contact
 **E-mail:** skd@yonsei.ac.kr, **CV:** [view](https://shacoding.com/wp-content/uploads/2019/07/SHA_CV_0922.pdf)
 </p>
