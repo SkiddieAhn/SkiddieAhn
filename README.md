@@ -60,7 +60,7 @@
 </details>
 
 
-## ⚙️ Projects
+## 🚀 Projects
 <details>
 <summary><b>Main Projects</b></summary>
 
@@ -78,7 +78,7 @@
   
 </details>
 
-## ☎ Contact
+## 🤙 Contact
 **E-mail:** skd@yonsei.ac.kr, **CV:** [view](https://shacoding.com/wp-content/uploads/2019/07/SHA_CV_0922.pdf)
 </p>
 <p>
