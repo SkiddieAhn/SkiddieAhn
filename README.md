@@ -24,7 +24,7 @@
 <details>
 <summary><b>International Papers</b></summary>
 
-1. Sunghyun Ahn, Youngwan Jo, Kijung Lee, and Sanghyun Park. <b>"VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection"</b> Asian Conference on Computer Vision (ACCV), regular paper, Sep 2024. (BK, IF=1) [[Code](https://github.com/SkiddieAhn/Paper-VideoPatchCore)] 
+1. Sunghyun Ahn, Youngwan Jo, Kijung Lee, and Sanghyun Park. <b>"VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection"</b> Asian Conference on Computer Vision (ACCV), regular paper, Sep 2024. (BK, IF=1) [[View](https://arxiv.org/abs/2409.16225v1)][[Code](https://github.com/SkiddieAhn/Paper-VideoPatchCore)] 
 2. **[SCIE]** Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo, and Sanghyun Park. (*equally contributed) <b>"Making Anomalies More Anomalous: Video Anomaly Detection Using a Novel Generator and Destroyer"</b> IEEE Access (2024): 36712-36726. (IF: 3.9, JCR: Q2) [[View](https://ieeexplore.ieee.org/document/10462109/)][[Code](https://github.com/SkiddieAhn/Paper-Making-Anomalies-More-Anomalous)] 
 3. Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo, and Sanghyun Park. (*equally contributed) <b>"Dual Stream Fusion U-Net Transformers for
 3D Medical Image Segmentation"</b> IEEE International Conference on Big Data and Smart Computing (BigComp), regular paper, Feb 2024. [[View](https://ieeexplore.ieee.org/abstract/document/10488278)][[Code](https://github.com/SkiddieAhn/Paper-DS-UNETR)] 
