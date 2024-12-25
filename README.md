@@ -24,7 +24,7 @@
 <details>
 <summary><b>International Papers</b></summary>
 
-1. Inpyo Hong, Youngwan Jo, Hyojeong Lee, Sunghyun Ahn, and Sanghyun Park., <b>"Advanced Knowledge Transfer: Refined Feature Distillation for Zero-Shot Quantization in Edge Computing"</b> ACM/SIGAPP Symposium On Applied Computing (SAC), regular paper, Mar 2025. (BK, IF=1)
+1. Inpyo Hong, Youngwan Jo, Hyojeong Lee, Sunghyun Ahn, and Sanghyun Park. <b>"Advanced Knowledge Transfer: Refined Feature Distillation for Zero-Shot Quantization in Edge Computing"</b> ACM/SIGAPP Symposium On Applied Computing (SAC), regular paper, Mar 2025. (BK, IF=1)
 2. Sunghyun Ahn, Youngwan Jo, Kijung Lee, and Sanghyun Park. <b>"VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection"</b> Asian Conference on Computer Vision (ACCV), regular paper, Sep 2024. (BK, IF=1) [[View](https://arxiv.org/abs/2409.16225)][[Code](https://github.com/SkiddieAhn/Paper-VideoPatchCore)] 
 3. **[SCIE]** Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo, and Sanghyun Park. (*equally contributed) <b>"Making Anomalies More Anomalous: Video Anomaly Detection Using a Novel Generator and Destroyer"</b> IEEE Access (2024): 36712-36726. (IF: 3.9, JCR: Q2) [[View](https://ieeexplore.ieee.org/document/10462109/)][[Code](https://github.com/SkiddieAhn/Paper-Making-Anomalies-More-Anomalous)] 
 4. Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo, and Sanghyun Park. (*equally contributed) <b>"Dual Stream Fusion U-Net Transformers for
