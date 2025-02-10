@@ -24,11 +24,12 @@
 <details>
 <summary><b>International Papers</b></summary>
 
-1. Kijung Lee, Youngwan Jo, Sunghyun Ahn, and Sanghyun Park. <b>"MDVAD: Multimodal Diffusion for Video Anomaly Detection"</b> Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), regular paper, June 2025. (BK, IF=1)
-2. Inpyo Hong, Youngwan Jo, Hyojeong Lee, Sunghyun Ahn, and Sanghyun Park. <b>"Advanced Knowledge Transfer: Refined Feature Distillation for Zero-Shot Quantization in Edge Computing"</b> ACM/SIGAPP Symposium On Applied Computing (SAC), regular paper, Mar 2025. (BK, IF=1) [[View](https://arxiv.org/abs/2412.19125)]
-3. Sunghyun Ahn, Youngwan Jo, Kijung Lee, and Sanghyun Park. <b>"VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection"</b> Asian Conference on Computer Vision (ACCV), regular paper, Sep 2024. (BK, IF=1) [[View](https://arxiv.org/abs/2409.16225)][[Code](https://github.com/SkiddieAhn/Paper-VideoPatchCore)] 
-4. **[SCIE]** Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo, and Sanghyun Park. (*equally contributed) <b>"Making Anomalies More Anomalous: Video Anomaly Detection Using a Novel Generator and Destroyer"</b> IEEE Access (2024): 36712-36726. (IF: 3.9, JCR: Q2) [[View](https://ieeexplore.ieee.org/document/10462109/)][[Code](https://github.com/SkiddieAhn/Paper-Making-Anomalies-More-Anomalous)] 
-5. Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo, and Sanghyun Park. (*equally contributed) <b>"Dual Stream Fusion U-Net Transformers for
+1. Jeongeun Kim, Youngwan Jo, Sunghyun Ahn, and Sanghyun Park. <b>"AMoE-BTS: Adaptive Mixture of Experts for Personalized Modality Importance in Brain Tumor Segmentation"</b> Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), workshop paper, June 2025. (BK, IF=1)
+2. Kijung Lee, Youngwan Jo, Sunghyun Ahn, and Sanghyun Park. <b>"MDVAD: Multimodal Diffusion for Video Anomaly Detection"</b> Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), regular paper, June 2025. (BK, IF=1)
+3. Inpyo Hong, Youngwan Jo, Hyojeong Lee, Sunghyun Ahn, and Sanghyun Park. <b>"Advanced Knowledge Transfer: Refined Feature Distillation for Zero-Shot Quantization in Edge Computing"</b> ACM/SIGAPP Symposium On Applied Computing (SAC), regular paper, Mar 2025. (BK, IF=1) [[View](https://arxiv.org/abs/2412.19125)]
+4. Sunghyun Ahn, Youngwan Jo, Kijung Lee, and Sanghyun Park. <b>"VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection"</b> Asian Conference on Computer Vision (ACCV), regular paper, Sep 2024. (BK, IF=1) [[View](https://arxiv.org/abs/2409.16225)][[Code](https://github.com/SkiddieAhn/Paper-VideoPatchCore)] 
+5. **[SCIE]** Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo, and Sanghyun Park. (*equally contributed) <b>"Making Anomalies More Anomalous: Video Anomaly Detection Using a Novel Generator and Destroyer"</b> IEEE Access (2024): 36712-36726. (IF: 3.9, JCR: Q2) [[View](https://ieeexplore.ieee.org/document/10462109/)][[Code](https://github.com/SkiddieAhn/Paper-Making-Anomalies-More-Anomalous)] 
+6. Seungkyun Hong*, Sunghyun Ahn*, Youngwan Jo, and Sanghyun Park. (*equally contributed) <b>"Dual Stream Fusion U-Net Transformers for
 3D Medical Image Segmentation"</b> IEEE International Conference on Big Data and Smart Computing (BigComp), regular paper, Feb 2024. [[View](https://ieeexplore.ieee.org/abstract/document/10488278)][[Code](https://github.com/SkiddieAhn/Paper-DS-UNETR)] 
 
   
