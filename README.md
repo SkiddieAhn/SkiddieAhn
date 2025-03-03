@@ -67,7 +67,7 @@
 <details>
 <summary><b>Main Projects</b></summary>
 
-1. LG전자 산학과제. <b>"반려동물 비디오 이상 탐지 시스템"</b> (2025)
+1. LG전자 산학과제. <b>"AI 기반 반려동물 비디오 이상 탐지"</b> (2025)
 2. 금융보안캠프. <b>"금융 메타버스 플랫폼 내 GAN을 활용한 손금 인증 서비스."</b> (2022) [[View](https://shacoding.com/2022/08/14/gan%ec%9d%84-%ed%99%9c%ec%9a%a9%ed%95%9c-%ec%86%90%ea%b8%88-%ec%9d%b8%ec%a6%9d-%ec%84%9c%eb%b9%84%ec%8a%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%95%84%ec%9d%b4%eb%94%94%ec%96%b4/)]
 3. 객체지향 패러다임. <b>"가톨릭대 밥 약속 채팅 어플리케이션: WE_EAT."</b> (2022) [[View](https://shacoding.com/2022/06/14/%ea%b0%80%ed%86%a8%eb%a6%ad%eb%8c%80-%eb%b0%a5-%ec%95%bd%ec%86%8d-%ec%b1%84%ed%8c%85-%ec%95%b1-%ea%b0%9d%ec%b2%b4%ec%a7%80%ed%96%a5-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/)][[Code](https://github.com/SkiddieAhn/Project-App-WE_EAT)]
 4. 캡스톤 디자인. <b>"AI 기반 냉장고 속 식품 유통기한 관리 챗봇: 프리지."</b> (2022)  [[View](https://shacoding.com/2022/06/05/ai-%ea%b8%b0%eb%b0%98-%eb%83%89%ec%9e%a5%ea%b3%a0-%ec%9c%a0%ed%86%b5%ea%b8%b0%ed%95%9c-%ea%b4%80%eb%a6%ac-%ec%b1%97%eb%b4%87-%ec%ba%a1%ec%8a%a4%ed%86%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/)][[Code](https://github.com/SkiddieAhn/Project-ChatBot-Fridge)] 🏆
