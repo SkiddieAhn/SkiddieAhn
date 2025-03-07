@@ -24,7 +24,7 @@
 <details>
 <summary><b>International Papers</b></summary>
 
-1. Sunghyun Ahn*, Youngwan Jo*, Kijung Lee, Sein Kwon, Inpyo Hong, and Sanghyun Park. (*equally contributed) <b>"AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM"</b> arXiv, Preprint [[Paper](https://arxiv.org/abs/2503.04504)][[Code](https://github.com/SkiddieAhn/Paper-AnyAnomaly)] 
+1. Sunghyun Ahn*, Youngwan Jo*, Kijung Lee, Sein Kwon, Inpyo Hong, and Sanghyun Park. (*equally contributed) <b>"AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM"</b> arXiv, Preprint [[View](https://arxiv.org/abs/2503.04504)][[Code](https://github.com/SkiddieAhn/Paper-AnyAnomaly)] 
 2. Kijung Lee, Youngwan Jo, Sunghyun Ahn, and Sanghyun Park. <b>"MDVAD: Multimodal Diffusion for Video Anomaly Detection"</b> Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), regular paper, June 2025. (BK, IF=1)
 3. Inpyo Hong, Youngwan Jo, Hyojeong Lee, Sunghyun Ahn, and Sanghyun Park. <b>"Advanced Knowledge Transfer: Refined Feature Distillation for Zero-Shot Quantization in Edge Computing"</b> ACM/SIGAPP Symposium On Applied Computing (SAC), regular paper, Mar 2025. (BK, IF=1) [[View](https://arxiv.org/abs/2412.19125)]
 4. Sunghyun Ahn, Youngwan Jo, Kijung Lee, and Sanghyun Park. <b>"VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection"</b> Asian Conference on Computer Vision (ACCV), regular paper, Sep 2024. (BK, IF=1) [[View](https://arxiv.org/abs/2409.16225)][[Code](https://github.com/SkiddieAhn/Paper-VideoPatchCore)] 
@@ -38,8 +38,8 @@
 <details>
 <summary><b>Domestic Papers</b></summary>
 
-1. 안성현, 조영완, 이기정, 권세인 and 박상현. <b>"Anomaly LVLM: LVLM을 활용한 사용자 맞춤형 비디오 이상 탐지 연구"</b> 한국정보과학회 학술발표논문집 (2024) 🏆
-2. 김은지, 안성현, 이효정 and 박상현. <b>"MSPD: 자기 지도 학습 기반 저선량 CT 디노이징을 위한 다해상도 픽셀 무작위 배열 다운샘플링 네트워크"</b> 한국정보과학회 학술발표논문집 (2024)
+1. 안성현, 조영완, 이기정, 권세인 and 박상현. <b>"Anomaly LVLM: LVLM을 활용한 사용자 맞춤형 비디오 이상 탐지 연구"</b> 한국정보과학회 학술발표논문집 (2024): 120-122. [[View](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12041808)] 🏆
+2. 김은지, 안성현, 이효정 and 박상현. <b>"MSPD: 자기 지도 학습 기반 저선량 CT 디노이징을 위한 다해상도 픽셀 무작위 배열 다운샘플링 네트워크"</b> 한국정보과학회 학술발표논문집 (2024): 123-125. [[View](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12041808)]
 3. 홍인표, 조영완, 안성현, 김은지, 권세인 and 박상현. <b>"DQ-ResUNet: 의료 영상 분할의 효율성 개선을 위한 동적 양자화 기반 최적화"</b> 한국정보과학회 학술발표논문집 (2024): 708-710. [[View](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11861961)]
 4. 이기정, 안성현, 김현진 and 박상현. <b>"FFAE: 비디오 이상 탐지를 위한 비디오 프레임 전처리 및 특징 융합 방법"</b> 한국정보과학회 학술발표논문집 (2023): 526-528. [[View](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705154)]
 5. 안성현, 김환희, 권세인 and 박상현. <b>"C-Swin UNETR: 3D 의료 영상 분할을 위한 채널 어텐션이 적용된 Swin Transformer."</b> 한국정보과학회 학술발표논문집 (2023): 787-789. [[View](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488179)]
