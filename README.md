@@ -24,7 +24,7 @@
 <details>
 <summary><b>International Papers</b></summary>
 
-1. Sunghyun Ahn*, Youngwan Jo*, Kijung Lee, Sein Kwon, Inpyo Hong, and Sanghyun Park. (*equally contributed) <b>"AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM"</b> arXiv, Preprint [[Code](https://github.com/SkiddieAhn/Paper-AnyAnomaly)] 
+1. Sunghyun Ahn*, Youngwan Jo*, Kijung Lee, Sein Kwon, Inpyo Hong, and Sanghyun Park. (*equally contributed) <b>"AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM"</b> arXiv, Preprint [[Paper](https://arxiv.org/abs/2503.04504)][[Code](https://github.com/SkiddieAhn/Paper-AnyAnomaly)] 
 2. Kijung Lee, Youngwan Jo, Sunghyun Ahn, and Sanghyun Park. <b>"MDVAD: Multimodal Diffusion for Video Anomaly Detection"</b> Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), regular paper, June 2025. (BK, IF=1)
 3. Inpyo Hong, Youngwan Jo, Hyojeong Lee, Sunghyun Ahn, and Sanghyun Park. <b>"Advanced Knowledge Transfer: Refined Feature Distillation for Zero-Shot Quantization in Edge Computing"</b> ACM/SIGAPP Symposium On Applied Computing (SAC), regular paper, Mar 2025. (BK, IF=1) [[View](https://arxiv.org/abs/2412.19125)]
 4. Sunghyun Ahn, Youngwan Jo, Kijung Lee, and Sanghyun Park. <b>"VideoPatchCore: An Effective Method to Memorize Normality for Video Anomaly Detection"</b> Asian Conference on Computer Vision (ACCV), regular paper, Sep 2024. (BK, IF=1) [[View](https://arxiv.org/abs/2409.16225)][[Code](https://github.com/SkiddieAhn/Paper-VideoPatchCore)] 
