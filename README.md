@@ -1,5 +1,4 @@
-## 👋 Welcome to SKD's Github [![Today](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskiddieahn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+## 👋 Welcome to SKD's Github 
 - AI Researcher in the [Data Engineering Lab](http://delab.yonsei.ac.kr) at Yonsei University.
 - Received a Bachelor's degree in Computer Science from [The Catholic Univerity of Korea](https://www.catholic.ac.kr/ko/index.do), with Magna Cum Laude.
 - Received a Master's degree in Computer Science from [Yonsei University](https://www.yonsei.ac.kr/sc/), advised by Prof. Sanghyun Park.
