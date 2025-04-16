@@ -88,9 +88,9 @@
 </p>
 <p>
 <a href="https://scholar.google.com/citations?user=mKchEwoAAAAJ&hl=ko" target="_blank">
-<img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=Google Scholar&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google%20Scholar&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sunghyunahn-ai" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="https://shacoding.com/" target="_blank">
-<img src="https://img.shields.io/badge/Tech Blog-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Tech Blog-21759B?style=flat&logo=wordpress&logoColor=white" /></a>
 </p>
