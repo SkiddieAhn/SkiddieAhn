@@ -7,7 +7,7 @@
 
 ## 🏙 Experience
 ### Data Engineering Lab
-> **Researcher** (2023.03 ~ present) <br/>**Intern Researcher** (2022.03 ~ 2023.02)   
+> **Researcher** (2023.03 ~ 2025.05) <br/>**Intern Researcher** (2022.03 ~ 2023.02)   
 > **Yonsei Univ. Dept of Computer Science**
 - Deep Learning
 - Video Anomaly Detection
