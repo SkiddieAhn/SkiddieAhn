@@ -1,5 +1,4 @@
 ## 👋 Welcome to SKD's Github 
-- AI Researcher in the [Data Engineering Lab](http://delab.yonsei.ac.kr) at Yonsei University.
 - Received a Bachelor's degree in Computer Science from [The Catholic Univerity of Korea](https://www.catholic.ac.kr/ko/index.do), with Magna Cum Laude.
 - Received a Master's degree in Computer Science from [Yonsei University](https://www.yonsei.ac.kr/sc/), advised by Prof. Sanghyun Park.
 
