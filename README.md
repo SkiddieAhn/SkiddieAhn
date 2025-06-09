@@ -11,12 +11,6 @@
 - Deep Learning
 - Video Anomaly Detection
 - Medical Image Segmentation
-
-### CVMI Lab 
-> **Undergraduate Researcher** (2021.06 ~ 2022.02)   
-> **Catholic Univ. Dept of Media Technology & Media Contents**
-- Object Detection 
-- Image Processing
   
 ## 📜 Publications
 <details>
@@ -63,24 +57,6 @@
    
 </details>
 
-
-## 🚀 Projects
-<details>
-<summary><b>Main Projects</b></summary>
-
-1. 금융보안캠프. <b>"금융 메타버스 플랫폼 내 GAN을 활용한 손금 인증 서비스."</b> (2022) [[View](https://shacoding.com/2022/08/14/gan%ec%9d%84-%ed%99%9c%ec%9a%a9%ed%95%9c-%ec%86%90%ea%b8%88-%ec%9d%b8%ec%a6%9d-%ec%84%9c%eb%b9%84%ec%8a%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%95%84%ec%9d%b4%eb%94%94%ec%96%b4/)]
-2. 객체지향 패러다임. <b>"가톨릭대 밥 약속 채팅 어플리케이션: WE_EAT."</b> (2022) [[View](https://shacoding.com/2022/06/14/%ea%b0%80%ed%86%a8%eb%a6%ad%eb%8c%80-%eb%b0%a5-%ec%95%bd%ec%86%8d-%ec%b1%84%ed%8c%85-%ec%95%b1-%ea%b0%9d%ec%b2%b4%ec%a7%80%ed%96%a5-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/)][[Code](https://github.com/SkiddieAhn/Project-App-WE_EAT)]
-3. 캡스톤 디자인. <b>"AI 기반 냉장고 속 식품 유통기한 관리 챗봇: 프리지."</b> (2022)  [[View](https://shacoding.com/2022/06/05/ai-%ea%b8%b0%eb%b0%98-%eb%83%89%ec%9e%a5%ea%b3%a0-%ec%9c%a0%ed%86%b5%ea%b8%b0%ed%95%9c-%ea%b4%80%eb%a6%ac-%ec%b1%97%eb%b4%87-%ec%ba%a1%ec%8a%a4%ed%86%a4-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8/)][[Code](https://github.com/SkiddieAhn/Project-ChatBot-Fridge)] 🏆
-4. 연구 과제. <b>"스마트 팜을 위한 오리 객체 검출 및 분석."</b> (2022) [[View](https://shacoding.com/2022/02/07/%ec%97%b0%ea%b5%ac-%ea%b3%bc%ec%a0%9c-duck-farm-604-project/)]
-
-</details>
-
-<details>
-<summary><b>Side Projects</b></summary>
-
-1. 이산수학. <b>"우리만의 비밀코드: UBI 암호화."</b> (2021) [[View](https://shacoding.com/2021/12/20/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%eb%b9%84%eb%b0%80%ec%bd%94%eb%93%9c-ubi-%ec%95%94%ed%98%b8%ed%99%94/)][[Code](https://github.com/SkiddieAhn/Project-ChatBot-UBI)]
-  
-</details>
 
 ## 🤙 Contact
 **E-mail:** skd@yonsei.ac.kr, **CV:** [view](https://shacoding.com/wp-content/uploads/2019/07/SHA_CV_0308.pdf), [slide](https://shacoding.com/wp-content/uploads/2019/07/SHA_PF_0429.pdf)
