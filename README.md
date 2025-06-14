@@ -1,6 +1,6 @@
 ## 👋 Welcome to SKD's Github 
 - Received a Bachelor's degree in Computer Science from [The Catholic Univerity of Korea](https://www.catholic.ac.kr/ko/index.do), with Magna Cum Laude.
-- Received a Master's degree in Computer Science from [Yonsei University](https://www.yonsei.ac.kr/sc/), advised by Prof. Sanghyun Park.
+- Received a Master's degree in Computer Science from [Yonsei University](https://www.yonsei.ac.kr), advised by Prof. Sanghyun Park.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=skiddieahn&count_private=true&show_icons=true&theme=vue&hide_border=true&rank_icon=github)](https://github.com/SkiddieAhn)
 
