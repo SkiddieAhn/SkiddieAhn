@@ -43,7 +43,7 @@
 <details>
 <summary><b>International Patents</b></summary>
 
-1. Kijung Lee, Youngwan Jo, Sunghyun Ahn, and Sanghyun Park. <b>"Method of Detecting Video Anomaly on the Basis of Multimodal Diffusion and Device Therefor"</b> ID: 19/078,589 (2025). 
+1. Kijung Lee, Youngwan Jo, Sunghyun Ahn, and Sanghyun Park. <b>"Method of Detecting Video Anomaly on the Basis of Multimodal Diffusion and Device Therefor"</b> ID: 19/078,589 (2025). [[View](http://delab.yonsei.ac.kr/publications/international/patent/2025-03-14-METHOD%20OF%20DETECTING%20VIDEO%20ANOMALY%20ON%20BASIS%20OF%20MULTIMODAL%20DIFFUSION%20AND%20DEVICE%20THEREFOR/)]
 2. Seungkyun Hong, Sunghyun Ahn, Youngwan Jo, and Sanghyun Park. <b>"Image segmentation method using dual attention and the device utilizing it"</b> ID: PCT/KR2023/020370 (2023). [[View](http://delab.yonsei.ac.kr/publications/international/patent/2023-12-12-Image%20segmentation%20method%20using%20dual%20attention%20and%20the%20device%20utilizing%20it/)]
    
 </details>
