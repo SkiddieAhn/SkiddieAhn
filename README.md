@@ -1,4 +1,5 @@
 ## 👋 Welcome to SKD's Github 
+- AI researcher focused on computer vision, multimodal AI, and video anomaly detection.
 - Received a Bachelor's degree in Computer Science from [The Catholic Univerity of Korea](https://www.catholic.ac.kr/ko/index.do), with Magna Cum Laude.
 - Received a Master's degree in Computer Science from [Yonsei University](https://www.yonsei.ac.kr), advised by Prof. Sanghyun Park.
 
