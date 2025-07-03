@@ -6,10 +6,15 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=skiddieahn&count_private=true&show_icons=true&theme=vue&hide_border=true&rank_icon=github)](https://github.com/SkiddieAhn)
 
 ## 🏙 Experience
+### PYLER
+> **ML Research Enginner** (2025.07 ~ present)  
+> **Technical Research Personnel**
+- Multimodal Deep Learning
+- Video Understanding
+  
 ### Data Engineering Lab
 > **Researcher** (2023.03 ~ 2025.05) <br/>**Intern Researcher** (2022.03 ~ 2023.02)   
 > **Yonsei Univ. Dept of Computer Science**
-- Deep Learning
 - Video Anomaly Detection
 - Medical Image Segmentation
   
