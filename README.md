@@ -13,7 +13,7 @@
 - Video Understanding
   
 ### Data Engineering Lab
-> **Researcher** (2023.03 ~ 2025.05) <br/>**Intern Researcher** (2022.03 ~ 2023.02)   
+> **AI Researcher** (2022.03 ~ 2025.05)  
 > **Yonsei Univ. Dept of Computer Science**
 - Video Anomaly Detection
 - Medical Image Segmentation
