@@ -3,7 +3,7 @@
 - Received a Bachelor's degree in Computer Science from [The Catholic Univerity of Korea](https://www.catholic.ac.kr/ko/index.do), with Magna Cum Laude.
 - Received a Master's degree in Computer Science from [Yonsei University](https://www.yonsei.ac.kr), advised by Prof. Sanghyun Park.
 
-[![GitHub stats](https://github-readme-stats.zohan.tech/api?username=skiddieahn&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=vue&rank_icon=github)](https://github.com/SkiddieAhn)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=skiddieahn&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=vue&rank_icon=github)](https://github.com/SkiddieAhn)
 
 ## 🏙 Experience
 ### PYLER
