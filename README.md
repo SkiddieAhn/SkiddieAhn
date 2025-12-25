@@ -1,4 +1,5 @@
-## 👋 Welcome to SKD's Github 
+<!--## 👋 Welcome to SKD's Github -->
+## Welcome to SKD's Github
 - **ML Research Engineer** at [PYLER](https://pyler.tech/), focused on multimodal deep learning, computer vision, and video understanding.
 - Received a Bachelor's degree in Computer Science from [The Catholic Univerity of Korea](https://www.catholic.ac.kr/ko/index.do), with Magna Cum Laude.
 - Received a Master's degree in Computer Science from [Yonsei University](https://www.yonsei.ac.kr), advised by Prof. Sanghyun Park.
@@ -66,7 +67,8 @@
 </details>
 -->
 
-## 🤙 Contact
+<!--## 🤙 Contact-->
+## Contact
 **E-mail:** skd@yonsei.ac.kr **CV:** [view](https://shacoding.com/wp-content/uploads/2019/07/SHA_CV_1221.pdf), [slide](https://shacoding.com/wp-content/uploads/2019/07/SHA_PF_1124.pdf)
 </p>
 <p>
