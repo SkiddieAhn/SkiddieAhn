@@ -4,7 +4,7 @@
 - Received a Master's degree in Computer Science from [Yonsei University](https://www.yonsei.ac.kr), advised by Prof. Sanghyun Park.
 
 [![GitHub stats](https://github-readme-stats.zohan.tech/api?username=skiddieahn&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=vue&rank_icon=github)](https://github.com/SkiddieAhn)
-
+<!--
 ## 🏙 Experience
 ### PYLER
 > **ML Research Enginner** (2025.07 ~ present)  
@@ -64,9 +64,10 @@
 3. 홍승균, 안성현, 조영완, and 박상현. <b>"이중 어텐션을 이용한 이미지 세그멘테이션 방법 및 이를 활용한 장치"</b> ID: 10-2023-0124697 (2023). [[View](http://delab.yonsei.ac.kr/publications/domestic/patent/2023-09-19-%EC%9D%B4%EC%A4%91%20%EC%96%B4%ED%85%90%EC%85%98%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98%20%EB%B0%A9%EB%B2%95%20%EB%B0%8F%20%EC%9D%B4%EB%A5%BC%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%9E%A5%EC%B9%98/)]
    
 </details>
+-->
 
-
-## 🤙 Contact
+<!--## 🤙 Contact-->
+## Contact
 **E-mail:** skd@yonsei.ac.kr **CV:** [view](https://shacoding.com/wp-content/uploads/2019/07/SHA_CV_1221.pdf), [slide](https://shacoding.com/wp-content/uploads/2019/07/SHA_PF_1124.pdf)
 </p>
 <p>
