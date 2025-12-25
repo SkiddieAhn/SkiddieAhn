@@ -66,8 +66,7 @@
 </details>
 -->
 
-<!--## 🤙 Contact-->
-## Contact
+## 🤙 Contact
 **E-mail:** skd@yonsei.ac.kr **CV:** [view](https://shacoding.com/wp-content/uploads/2019/07/SHA_CV_1221.pdf), [slide](https://shacoding.com/wp-content/uploads/2019/07/SHA_PF_1124.pdf)
 </p>
 <p>
