@@ -69,7 +69,7 @@
 
 <!--## 🤙 Contact-->
 ## Contact
-**E-mail:** skd@yonsei.ac.kr **CV:** [view](https://refresh.cv/sunghyunahn), [slide](https://shacoding.com/wp-content/uploads/2019/07/SHA_PF_1124.pdf)
+**E-mail:** skd@yonsei.ac.kr **CV:** [view](https://refresh.cv/sunghyunahn)
 </p>
 <p>
 <a href="https://scholar.google.com/citations?user=mKchEwoAAAAJ&hl=ko" target="_blank">
