@@ -69,7 +69,7 @@
 
 <!--## 🤙 Contact-->
 ## Contact
-**E-mail:** skd@yonsei.ac.kr **CV:** [view](https://skiddieahn.github.io/)
+**E-mail:** skd@yonsei.ac.kr **Website:** [view](https://skiddieahn.github.io/)
 </p>
 <p>
 <a href="https://scholar.google.com/citations?user=mKchEwoAAAAJ&hl=ko" target="_blank">
